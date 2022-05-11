@@ -1,5 +1,5 @@
 <script>
-  export  const title="This is contact us resuable component"
+  export  const title="Welcome"
 </script>
 <div>   
 
